@@ -5,7 +5,7 @@ I'm currently:
 - Working on projects for CISSA and DS Cubed
 - Learning Java
 
-I enjoy tinkering with user interface design and web development but am also looking to delve into more backend projects, particularly those related to automation, etc.
+I enjoy tinkering with user interface design and web development, but I am also looking to delve into more backend projects, particularly those related to automation, etc.
 
 Below are some of the things I have experience with:
 
