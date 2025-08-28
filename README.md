@@ -19,3 +19,5 @@
 - **DSCubed website**: Brand new website designed and built for DSCubed, currently maintained by the IT team. Visit: [dscubed.org.au](https://www.dscubed.org.au).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/m-ren/).
+
+Contact me at [hey@michaelren.dev](mailto:hey@michaelren.dev) for access to private repos.
